@@ -1,0 +1,17 @@
+2019/10/21 17:18:20 [error] 6#6: *1 open() "/var/www/get-text" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get-text HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:18:49 [error] 6#6: *1 open() "/var/www/1/get_text" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /1/get_text HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:19:38 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:18 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:19 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:20 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:20 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:20 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/21 17:20:21 [error] 6#6: *1 open() "/var/www/get_json" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /get_json HTTP/1.1", host: "192.168.99.100"
+2019/10/22 12:09:09 [error] 6#6: *1 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.99.100", referrer: "http://192.168.99.100/"
+2019/10/22 12:22:23 [error] 6#6: *1 directory index of "/var/www/" is forbidden, client: 192.168.99.1, server: localhost, request: "GET / HTTP/1.1", host: "192.168.99.100"
+2019/10/22 12:23:32 [error] 6#6: *1 directory index of "/var/www/" is forbidden, client: 192.168.99.1, server: localhost, request: "GET / HTTP/1.1", host: "192.168.99.100"
+2019/10/22 13:23:28 [emerg] 1#1: unexpected "{" in /etc/nginx/nginx.conf:1
+2019/10/22 13:24:34 [emerg] 1#1: directive "error_log" is not terminated by ";" in /etc/nginx/nginx.conf:5
+2019/10/22 13:25:12 [emerg] 1#1: directive "error_log" is not terminated by ";" in /etc/nginx/nginx.conf:5
+2019/10/22 13:25:29 [emerg] 1#1: directive "access_log" is not terminated by ";" in /etc/nginx/nginx.conf:25
+2019/10/22 13:25:40 [emerg] 1#1: unknown directive "autoindex_extra_size" in /etc/nginx/nginx.conf:27
