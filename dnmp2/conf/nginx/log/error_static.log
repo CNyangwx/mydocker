@@ -1,2 +1,0 @@
-2019/10/22 13:26:31 [error] 6#6: *1 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 192.168.99.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.99.100:8080", referrer: "http://192.168.99.100:8080/"
-2019/10/22 13:38:19 [error] 6#6: *1 user "admin": password mismatch, client: 192.168.99.1, server: , request: "GET / HTTP/1.1", host: "192.168.99.100:8080"
